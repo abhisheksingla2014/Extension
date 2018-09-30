@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "SY",
+    "description": "A hello world extension!",
+    "version": "1.0",
+    "icons": {
+        "128": "icons/swiggy-logo16.png",
+        "48": "icons/swiggy-logo48.png",
+        "16": "icons/swiggy-logo128.png"
+    },
+    "browser_action": {
+        "default_icon": "icons/swiggy-logo16.png",
+        "default_popup": "html/popup.html"
+    }
+}
